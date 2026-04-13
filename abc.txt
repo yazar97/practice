@@ -2,6 +2,10 @@ abcssassssdsdsdssdsddd
 dev
 fetch
 merge
+<<<<<<< HEAD
 
 
 rebase
+=======
+rebase for dev
+>>>>>>> 02c8a1b (hheds)
