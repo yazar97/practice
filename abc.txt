@@ -12,11 +12,4 @@ rebase for dev
 rebase done
 a
 b
-c
-sdsd
 
-=======
-
-
-rebase
->>>>>>> parent of ed2e1fc (hheds)
